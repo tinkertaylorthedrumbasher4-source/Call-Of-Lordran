@@ -1,0 +1,46 @@
+BLACK OPS IN LORDRAN - what to send your friend (2026-10-25, build s236)
+=====================================================================
+
+This is the newest version, with everything so far:
+- NEW: the guns break things - crates, barrels, pots, chairs, tables and the rest of what a sword
+  can break, and Seath's Primordial Crystal. Explosions and the Thundergun break every one
+  in reach. A teammate sees it break too.
+- NEW: the ordinary undead are Kino der Toten's zombies - the Hollows of the Asylum, the Burg,
+  the Depths, the Painted World and New Londo, and the Undead Soldiers - in the Kino uniforms
+  with the four Kino zombie heads, still carrying their swords, torches, bows, spears and shields.
+- NEW: Gwyn, Lord of Cinder is Five's Pentagon Thief (with Gwyn's sword, size and moves).
+- NEW: the red dragon on the Undead Burg bridge is now Dead Ops Arcade's chicken - a giant one,
+  about 13 m tall, that flies, flaps, lands and breathes fire like the dragon did.
+- NEW: Double Points and Fire Sale power-ups. Kills now drop Max Ammo, Double Points or
+  Fire Sale (one at a time). Double Points: every hit and kill pays double for 30 seconds.
+  Fire Sale: every Mystery Box costs 10 points for 30 seconds, with the Fire Sale jingle.
+  Each has its Black Ops model, glow, announcer, the character's own line and an icon at
+  the bottom of the screen that blinks as it runs out. Whoever picks one up gives it to
+  both players.
+- Co-op revive: a player whose health runs out goes down for 45 seconds; walk up to him,
+  face him and hold F for 3 seconds (1.5 with Quick Revive) to get him up. In co-op Quick
+  Revive costs 1500 and doesn't revive you by itself - it makes you faster at reviving.
+- Synced damage: hits on enemies count on both games.
+- Each player's own Black Ops character shows on the other's screen, with the Black Ops
+  animations and the gun in his hand; you hear each other's shots and character voice lines
+  and see each other's bullet impacts and explosions.
+- F9 menu: Noclip (on / off) - fly through walls: W/S where you look, A/D sideways, Space up,
+  Ctrl or C down, Shift faster.
+- F4: volume sliders for the mod's Black Ops sounds (master, weapons & effects, music, voices).
+- Shared world: the Mystery Box opens and cycles on both screens (only the one who paid can
+  take the gun), a Cymbal Monkey draws the enemies on both games, power-ups lie on both
+  games, and a door or lever one player paid for is free for the other.
+
+Both players need this same version. Older versions won't see each other in co-op.
+
+SEND THIS (no quick update this time)
+
+"Full install" folder. The zombies, the thief, the chicken, the power-ups' models and the breakable objects' sizes, icons and sounds are made
+from his own game files, so he has to run setup.bat again - just copying a new .dll isn't enough.
+Send BOTH zips (about 40 MB each, so use Google Drive, OneDrive or WeTransfer - too big for
+Discord without Nitro). He unzips BlackOpsInLordran-2026-10-25a.zip into the same place as
+before, so it lands on top of his old BlackOpsInLordran folder (Windows replaces the files;
+his settings, character and guns are kept), then runs setup.bat again. A new player unzips
+it anywhere and runs setup.bat (the README.txt inside explains it). The sources zip is the
+open-source code of the helper programs; it has to go along with the mod, but he doesn't
+need to open it.
